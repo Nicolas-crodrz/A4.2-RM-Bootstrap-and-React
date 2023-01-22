@@ -1,3 +1,4 @@
+
 //Plugin 1/3: Carrusel de imagenes
 $(document).ready(function(){
   $('.headerContenido').slick({
@@ -16,8 +17,6 @@ new TypeIt(".typing", {
 }).go();
 
 /*
-
 Plugin 3/3: Flipping Gallery
 Path: js\flip.js
-
 */
