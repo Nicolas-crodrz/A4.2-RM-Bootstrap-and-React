@@ -1,0 +1,34 @@
+
+.gallery{
+  display: flex;
+}
+.cabezera{
+  z-index: 1;
+}
+
+
+.link-gallery {
+  z-index: 0;
+  position: fixed;
+/* centrar el contenido */
+  top: 20rem;
+  left: 30%;
+  width: 50rem;
+  height: 30rem;
+}
+
+
+
+.link-gallery > .img-gallery {
+  width: 50rem;
+  height: 30rem;
+  object-fit: cover;
+  object-position: center;
+}
+
+
+footer {
+  position: fixed;
+  top: 48rem;
+  width: 100%;
+}
