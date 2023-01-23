@@ -20,6 +20,7 @@ carts.forEach(function (cart) {
   });
 });
 
+
 // Elemento 3/3: Alerta de valoración enviada correctamente
 let btnSend = document.querySelector(".btn-send");
 let div = document.createElement("div");
